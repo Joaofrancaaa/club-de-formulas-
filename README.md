@@ -34,7 +34,7 @@ O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nu
       <sub><b>Login / Acesso Profissional</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b79-b2ad-56afb3576378" width="100%" style="border-radius: 8px;" />
+      <img src="https://github.com/user-attachments/assets/1928a0a6-b6b1-4b5c-b16c-edd7c8267aa1" width="100%" style="border-radius: 8px;" />
       <br/>
       <sub><b>Dashboard Administrativo (CMS)</b></sub>
     </td>
