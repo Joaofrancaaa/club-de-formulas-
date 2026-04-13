@@ -14,6 +14,9 @@ O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nu
 
 * ## 📸 Vitrine do Projeto
 <img width="980" height="897" alt="image" src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" />
+<img width="979" height="831" alt="image" src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32" />
+<img width="1004" height="895" alt="image" src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270" />
+<img width="997" height="897" alt="image" src="https://github.com/user-attachments/assets/7df321e6-f86a-4b79-b2ad-56afb3576378" />
 
 ## 🛠️ Tecnologias Utilizadas
 
