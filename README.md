@@ -12,8 +12,10 @@ O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nu
 * **Painel Administrativo (CMS):** Sistema completo (CRUD) para gestão de categorias segmentadas (Saúde Humana, Veterinária, etc.) e fórmulas.
 * **Link na Bio Otimizado:** Rota `/bio` dedicada para tráfego vindo do Instagram, substituindo ferramentas de terceiros (como Linktree) e retendo o usuário no domínio próprio.
 
-## 🛠️ Tecnologias Utilizadas
+* ## 📸 Vitrine do Projeto
 <img width="980" height="897" alt="image" src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" />
+
+## 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído com as ferramentas mais modernas do ecossistema React:
 
