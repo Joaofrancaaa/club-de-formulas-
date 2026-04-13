@@ -13,28 +13,21 @@ O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nu
 * **Link na Bio Otimizado:** Rota `/bio` dedicada para tráfego vindo do Instagram, substituindo ferramentas de terceiros (como Linktree) e retendo o usuário no domínio próprio.
 
 * ## 📸 Vitrine do Projeto
-## 📸 Vitrine do Projeto
-
 
 <div align="center">
 
   <div style="display: flex; gap: 12px; margin-bottom: 12px;">
     <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f"
          style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
-
-    <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32"
-         style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
   </div>
 
   <div style="display: flex; gap: 12px;">
     <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270"
          style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
-
-    <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b6d-9159-f7aee37ccb32"
-         style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
   </div>
 
 </div>
+
 ## 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído com as ferramentas mais modernas do ecossistema React:
