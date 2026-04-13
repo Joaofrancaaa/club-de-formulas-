@@ -12,23 +12,31 @@ O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nu
 * **Painel Administrativo (CMS):** Sistema completo (CRUD) para gestão de categorias segmentadas (Saúde Humana, Veterinária, etc.) e fórmulas.
 * **Link na Bio Otimizado:** Rota `/bio` dedicada para tráfego vindo do Instagram, substituindo ferramentas de terceiros (como Linktree) e retendo o usuário no domínio próprio.
 
-* ## 📸 Vitrine do Projeto
+## 📸 Vitrine do Projeto
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" width="100%" style="border-radius: 8px;" />
+      <br/>
+      <sub><b>Home / Catálogo de Fórmulas</b></sub>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32" width="100%" style="border-radius: 8px;" />
+      <br/>
+      <sub><b>Lâmina Técnica com Prescrição</b></sub>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270" width="100%" style="border-radius: 8px;" />
+      <br/>
+      <sub><b>Login / Acesso Profissional</b></sub>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b79-b2ad-56afb3576378" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b79-b2ad-56afb3576378" width="100%" style="border-radius: 8px;" />
+      <br/>
+      <sub><b>Dashboard Administrativo (CMS)</b></sub>
     </td>
   </tr>
 </table>
