@@ -15,15 +15,26 @@ O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nu
 * ## 📸 Vitrine do Projeto
 ## 📸 Vitrine do Projeto
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" width="45%" />
-  <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32" width="45%" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270" width="45%" />
-  <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b79-b2ad-56afb3576378" width="45%" />
-</p>
+<div align="center">
+
+  <div style="display: flex; gap: 12px; margin-bottom: 12px;">
+    <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f"
+         style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
+
+    <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32"
+         style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
+  </div>
+
+  <div style="display: flex; gap: 12px;">
+    <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270"
+         style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
+
+    <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b6d-9159-f7aee37ccb32"
+         style="width: 48%; height: 260px; object-fit: cover; border-radius: 8px;" />
+  </div>
+
+</div>
 ## 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído com as ferramentas mais modernas do ecossistema React:
