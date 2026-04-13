@@ -1,53 +1,62 @@
-# 🧪 Acervo Digital de Fórmulas - Naturalis
+🧪 Acervo Digital de Fórmulas — Naturalis
 
-Uma plataforma de *Sales Enablement* (Aceleração de Vendas) e Catálogo Digital desenvolvida sob medida para representantes da farmácia de manipulação Naturalis. 
+Plataforma de Sales Enablement desenvolvida para acelerar prescrições médicas e aumentar a conversão comercial de fórmulas manipuladas.
 
-O sistema foi desenhado com foco em **fricção zero**: permite que médicos, nutricionistas e prescritores encontrem fórmulas clínicas validadas, copiem a prescrição para seus prontuários e solicitem orçamentos via WhatsApp com apenas um clique.
+🔗 Acesse o projeto:
+https://club-de-formulas.vercel.app/
 
-## ✨ Principais Funcionalidades
+🚀 Visão Geral
 
-* **Lâminas Técnicas Digitais:** Páginas editoriais focadas em conversão para ativos de alto valor (como PROGO®, DL-185™ e Colagenew), contendo estudos clínicos, mecanismos de ação e sugestões de fórmulas.
-* **Integração Nativa com WhatsApp:** Geração de links dinâmicos que abrem o WhatsApp do representante com a mensagem pré-preenchida (ex: *"Gostaria de solicitar a fórmula X"*).
-* **One-Click Copy:** Botão inteligente que formata a fórmula (ativos, dosagem, posologia e veículo) no padrão exato para o médico colar em seu software de receituário.
-* **Painel Administrativo (CMS):** Sistema completo (CRUD) para gestão de categorias segmentadas (Saúde Humana, Veterinária, etc.) e fórmulas.
-* **Link na Bio Otimizado:** Rota `/bio` dedicada para tráfego vindo do Instagram, substituindo ferramentas de terceiros (como Linktree) e retendo o usuário no domínio próprio.
+O Acervo Digital de Fórmulas foi criado para resolver um problema real:
 
-## 📸 Vitrine do Projeto
+❌ Médicos perdem tempo montando prescrições manualmente
+❌ Representantes têm dificuldade em converter interesse em pedidos
+❌ Ferramentas como WhatsApp e Instagram não são integradas ao fluxo
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" width="100%" style="border-radius: 8px;" />
-      <br/>
-      <sub><b>Home / Catálogo de Fórmulas</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32" width="100%" style="border-radius: 8px;" />
-      <br/>
-      <sub><b>Lâmina Técnica com Prescrição</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270" width="100%" style="border-radius: 8px;" />
-      <br/>
-      <sub><b>Login / Acesso Profissional</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1928a0a6-b6b1-4b5c-b16c-edd7c8267aa1" width="100%" height ="100%" style="border-radius: 8px;" />
-      <br/>
-      <sub><b>Dashboard Administrativo (CMS)</b></sub>
-    </td>
-  </tr>
-</table>
+💡 Solução:
+Uma plataforma com fricção zero, onde o profissional:
 
-## 🛠️ Tecnologias Utilizadas
+encontra fórmulas validadas
+copia a prescrição com 1 clique
+solicita orçamento direto no WhatsApp
+✨ Principais Funcionalidades
+📄 Lâminas Técnicas Digitais
+Conteúdo focado em conversão com estudos clínicos e mecanismos de ação
+⚡ One-Click Copy
+Copia a fórmula já formatada para prontuário médico
+💬 Integração com WhatsApp
+Geração automática de mensagem para o representante
+🧠 Organização Inteligente
+Categorias segmentadas (Humana, Veterinária, etc.)
+🔐 Painel Administrativo (CMS)
+CRUD completo para gestão de fórmulas
+🔗 Link na Bio (/bio)
+Substitui ferramentas como Linktree mantendo o tráfego no domínio
+📸 Vitrine do Projeto
+<table align="center"> <tr> <td align="center" width="50%"> <img src="https://github.com/user-attachments/assets/92998e28-ba70-4693-9f97-6630707d249f" width="100%" style="border-radius: 8px;" /> <br/> <sub><b>Home / Catálogo de Fórmulas</b></sub> </td> <td align="center" width="50%"> <img src="https://github.com/user-attachments/assets/0b5647bb-d1a1-4b6d-9159-f7aee37ccb32" width="100%" style="border-radius: 8px;" /> <br/> <sub><b>Lâmina Técnica com Prescrição</b></sub> </td> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/fff5c22a-af9b-4d39-80fa-557f1bc12270" width="100%" style="border-radius: 8px;" /> <br/> <sub><b>Login / Acesso Profissional</b></sub> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/7df321e6-f86a-4b79-b2ad-56afb3576378" width="100%" style="border-radius: 8px;" /> <br/> <sub><b>Dashboard Administrativo (CMS)</b></sub> </td> </tr> </table>
+🛠️ Tecnologias Utilizadas
+Next.js (App Router) → Renderização híbrida e performance
+TypeScript → Tipagem estática e segurança
+Prisma ORM → Banco de dados tipado e migrations
+React Hook Form + Zod → Validação robusta
+CSS Modules → Estilização isolada
+Lucide React → Ícones modernos
+🧠 Arquitetura & Decisões
+⚡ Server Components para performance e SEO
+🔁 Separação clara entre Client e Server
+📦 Prisma como camada única de acesso ao banco
+🧩 Componentização focada em reuso
+🧠 Validação compartilhada (front + back)
+🎯 Diferenciais do Projeto
+Não é só CRUD → é produto orientado à conversão
+Integração real com fluxo comercial (WhatsApp)
+UX pensada para reduzir atrito do usuário final
+Aplicação com contexto de negócio real
+📈 Possíveis Evoluções
+🔐 Autenticação com níveis de acesso (RBAC)
+📊 Analytics de uso e conversão
+🤖 Sugestão inteligente de fórmulas
+📱 PWA / versão mobile otimizada
+👨‍💻 Autor
 
-Este projeto foi construído com as ferramentas mais modernas do ecossistema React:
-
-* **[Next.js (App Router)](https://nextjs.org/):** Framework React para renderização híbrida (Server e Client) e roteamento avançado.
-* **[TypeScript](https://www.typescriptlang.org/):** Tipagem estática para maior segurança e previsibilidade do código.
-* **[Prisma ORM](https://www.prisma.io/):** Gerenciamento de banco de dados e migrações tipadas.
-* **[CSS Modules](https://github.com/css-modules/css-modules):** Estilização componentizada, evitando vazamento de escopo e conflitos de CSS.
-* **[React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/):** Validação de dados robusta no Front-end e Back-end.
-* **[Lucide React](https://lucide.dev/):** Biblioteca de ícones consistente e leve. 
+Desenvolvido por João França
